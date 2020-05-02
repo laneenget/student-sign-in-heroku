@@ -1,3 +1,5 @@
+//Map object to a database table
+
 module.exports = (sequelize, DataTypes) => {
 
     let Student = sequelize.define('Student', {

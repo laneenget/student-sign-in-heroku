@@ -1,3 +1,5 @@
+//Sequelize setup
+
 let Sequelize = require('sequelize')
 
 let env = process.env.NODE_ENV || 'development'
